@@ -1,10 +1,5 @@
 
-# coding: utf-8
-
-# In[81]:
-
-
-#right and left
+#Better: http://www.lucainvernizzi.net/blog/2014/11/21/codility-beta-challenge-number-of-disc-intersections/
 def solution(N):
     rt=[]
     lt=[]
